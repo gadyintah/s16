@@ -30,4 +30,5 @@ for(j = 0; j < longWord.length; j++){
 	consonant += longWord[j];
 }
 
+
 console.log(consonant);
